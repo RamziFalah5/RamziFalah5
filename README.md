@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08121F,50:123C69,100:1E5AA8&text=Ramzi%20AbuFalah&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Problem%20Solver%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08121F,50:123C69,100:1E5AA8&text=Ramzi%20AbuFalah&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Problem%20Solver%20%7C%20Aspiring%20Full-Stack%20%26%20Java%20Desktop%20Developer&descAlignY=58&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi there, I'm Ramzi 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student at Birzeit University</b><br>
-  Passionate about coding, problem-solving, and building impactful digital solutions.
+  <b>Computer Science Student | Problem Solver | Aspiring Full-Stack & Java Desktop Developer</b>
+</p>
+
+<p align="center">
+  Passionate about building impactful software, solving algorithmic problems, and continuously improving through real-world projects and competitive programming.
 </p>
 
 <p align="center">
@@ -25,6 +28,9 @@
   <a href="https://leetcode.com/u/X_Ramzi/">
     <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
+  <a href="https://www.linkedin.com/in/ramzi-abufalah-a8a019382">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
 </p>
 
 ---
@@ -32,11 +38,11 @@
 ## 💫 About Me
 
 - 🎓 Third-year **Computer Science Student** at **Birzeit University**
-- 💻 Interested in **Software Development**, **Problem Solving**, and **Full-Stack Development**
-- 🌱 Currently improving my skills in **Java, C++, HTML, CSS, JavaScript, and SQL**
-- 🧠 Active on **LeetCode** and focused on strengthening my algorithmic thinking
-- 🚀 Building projects that improve both my technical skills and real-world experience
-- 📫 Contact me at: **1230594@student.birzeit.edu**
+- 💻 Interested in **Full-Stack Development**, **Java Desktop Applications**, and **Problem Solving**
+- 🧠 Active on **LeetCode** and continuously strengthening my algorithmic thinking
+- 🚀 Building practical projects to improve both my technical and software engineering skills
+- 🌱 Currently improving my skills in **Java, JavaFX, FXML, HTML, CSS, JavaScript, SQL, and Git**
+- 📫 Reach me at: **1230594@student.birzeit.edu**
 
 ---
 
@@ -46,14 +52,23 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaFX-0D1117?style=for-the-badge&logo=java&logoColor=orange" />
+  <img src="https://img.shields.io/badge/FXML-0D1117?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop%20Apps-0D1117?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
 
 ### 🍽️ AL-Mukhtar Restaurant
-A professional restaurant website built with **HTML** and **CSS**, focused on responsive design and a clean modern UI.
+A professional restaurant website built with **HTML** and **CSS**, focused on responsive design and a clean modern user interface.
 
 🔹 **Repository:** [almukhtar-restaurant](https://github.com/RamziFalah5/almukhtar-restaurant)
+
+---
 
 ### 🏢 Sobol Management System
 A desktop management system for Sobol Company built with **Java, JavaFX, FXML, JDBC, and MySQL** to manage inventory, sales, distribution, warehouses, suppliers, employees, and reporting.
